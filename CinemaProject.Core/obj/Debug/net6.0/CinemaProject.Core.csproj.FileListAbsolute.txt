@@ -1,0 +1,12 @@
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\bin\Debug\net6.0\CinemaProject.Core.deps.json
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\bin\Debug\net6.0\CinemaProject.Core.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\bin\Debug\net6.0\CinemaProject.Core.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\CinemaProject.Core.csproj.AssemblyReference.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\CinemaProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\CinemaProject.Core.AssemblyInfoInputs.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\CinemaProject.Core.AssemblyInfo.cs
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\CinemaProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\CinemaProject.Core.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\refint\CinemaProject.Core.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\CinemaProject.Core.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Core\obj\Debug\net6.0\ref\CinemaProject.Core.dll

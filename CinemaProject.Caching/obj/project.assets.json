@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CinemaProject.Service/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/CinemaProject.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CinemaProject.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CinemaProject.Service/1.0.0": {
+      "type": "project",
+      "path": "../CinemaProject.Service/CinemaProject.Service.csproj",
+      "msbuildProject": "../CinemaProject.Service/CinemaProject.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CinemaProject.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yildi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yildi\\Desktop\\Amy\\C#\\CinemaProject\\CinemaProject.Caching\\CinemaProject.Caching.csproj",
+      "projectName": "CinemaProject.Caching",
+      "projectPath": "C:\\Users\\yildi\\Desktop\\Amy\\C#\\CinemaProject\\CinemaProject.Caching\\CinemaProject.Caching.csproj",
+      "packagesPath": "C:\\Users\\yildi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yildi\\Desktop\\Amy\\C#\\CinemaProject\\CinemaProject.Caching\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\yildi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\yildi\\Desktop\\Amy\\C#\\CinemaProject\\CinemaProject.Service\\CinemaProject.Service.csproj": {
+              "projectPath": "C:\\Users\\yildi\\Desktop\\Amy\\C#\\CinemaProject\\CinemaProject.Service\\CinemaProject.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CinemaProject.Service is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project CinemaProject.Service supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "CinemaProject.Service",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

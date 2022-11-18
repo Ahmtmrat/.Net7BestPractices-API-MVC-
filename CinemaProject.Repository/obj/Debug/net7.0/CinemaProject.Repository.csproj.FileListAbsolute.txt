@@ -1,0 +1,17 @@
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\bin\Debug\net7.0\CinemaProject.Repository.deps.json
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\bin\Debug\net7.0\CinemaProject.Repository.runtimeconfig.json
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\bin\Debug\net7.0\CinemaProject.Repository.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\bin\Debug\net7.0\CinemaProject.Repository.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\bin\Debug\net7.0\CinemaProject.Core.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\bin\Debug\net7.0\CinemaProject.Core.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.csproj.AssemblyReference.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.AssemblyInfoInputs.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.AssemblyInfo.cs
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.csproj.CopyComplete
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\refint\CinemaProject.Repository.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\CinemaProject.Repository.genruntimeconfig.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Repository\obj\Debug\net7.0\ref\CinemaProject.Repository.dll

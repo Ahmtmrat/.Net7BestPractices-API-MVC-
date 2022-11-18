@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "FilterDirector";
+}
+@model List<CinemaWithMovieTheaterDto>
+<h1>Yönetmene Göre Sonuçlar</h1>
+
+<table class="table table-striped">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>Name</td>
+                <td>Genre</td>
+                <td>Director</td>
+                <td>Year</td>
+                <td>MovieTheater</td>
+
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+                            <tr>
+                               <td>@item.Id</td>
+                               <td>@item.Name</td>
+                               <td>@item.Genre</td>
+                               <td>@item.Director</td>
+                               <td>@item.Year</td>
+                                    <td>
+                    @foreach (var movieTheater in @item.MovieTheaters)
+                    {
+                        @movieTheater.Name <br />
+                    }
+                    </td>
+                   <td>
+                            </tr>
+        }
+        </tbody>
+    </table>

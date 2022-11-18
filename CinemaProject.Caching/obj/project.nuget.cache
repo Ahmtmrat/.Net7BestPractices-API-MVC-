@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqq9QmpxvmIVrU3zAkrO/A4PWtGK24ENh/4td78FB+9TNyz8wCbcsgoF5YkNkEZywnFtN43mf0cLHro3ltEMqg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\yildi\\Desktop\\Amy\\C#\\CinemaProject\\CinemaProject.Caching\\CinemaProject.Caching.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CinemaProject.Service is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project CinemaProject.Service supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "CinemaProject.Service",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

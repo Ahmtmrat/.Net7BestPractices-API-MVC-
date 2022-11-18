@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@model List<CinemaWithMovieTheaterDto>
+<a class="btn btn-success" asp-controller="Cinema" asp-action="Create">Ekle</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>Name</td>
+                <td>Genre</td>
+                <td>Director</td>
+                <td>Year</td>
+                <td>MovieTheater</td>
+                <td>Action</td>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+               <td>@item.Id</td>
+               <td>@item.Name</td>
+               <td>@item.Genre</td>
+               <td>@item.Director</td>
+               <td>@item.Year</td>
+               <td>
+                   @foreach(var movieTheater in @item.MovieTheaters)
+                    {
+                        @movieTheater.Name <br />
+                    }
+                </td>
+               <td>
+                    <a class="btn btn-warning" asp-controller="Cinema" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a class="btn btn-danger" asp-controller="Cinema" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+               </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+

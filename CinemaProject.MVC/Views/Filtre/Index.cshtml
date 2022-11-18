@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Filtre</h1>
+ <div class="row">
+    <div class="col-4">
+        <form asp-action="FilterGenre" method="post"> 
+            <h5>Türe Göre Sorgulama</h5>
+            <div class="form-group">
+                <label>Tür</label>
+                <input type="text" name="genre" class="form-control" required/>           
+            </div>      
+             <div class="form-group">
+                <input type="submit" value="Filtre" class="btn-primary" />
+            </div>
+        </form>
+    </div>
+    <div class="col-4">
+        <form asp-action="FilterDirector" method="post">  
+             <h5>Yönetmene Göre Sorgulama</h5>
+            <div class="form-group">
+                <label>Yönetmen</label>
+                <input type="text" name="director" class="form-control" required/>           
+            </div>      
+             <div class="form-group">
+                <input type="submit" value="Filtre" class="btn-primary  " />
+            </div>
+        </form>
+    </div>
+    <div class="col-4">
+        <form asp-action="FilterYear" method="post">
+             <h5>Yıla Göre Sorgulama</h5>
+            <div class="form-group">
+                <label>Yıl</label>
+                <input type="number" name="year" class="form-control" required/>              
+            </div>      
+            <div class="form-group">
+                <input type="submit" value="Filtre" class="btn-primary  " />
+            </div>
+        </form>
+    </div>
+</div>
+<div class="row mt-4">
+     <div class="col-4">
+        <form asp-action="FilterYearRange" method="post">    
+             <h5>Yıl Aralığına Göre Sorgulama</h5>
+            <div class="form-group">
+                 <label>Başlangıç Yıl</label>
+                <input type="number" name="firstYear" class="form-control" required/>              
+            </div>      
+            <div class="form-group">
+                <label>Bitiş Yıl</label>
+                <input type="number" name="secondYear" class="form-control" required/>              
+            </div>      
+            <div class="form-group">
+                <input type="submit" value="Filtre" class="btn-primary  " />
+            </div>
+        </form>
+    </div>
+    <div class="col-4 ">
+        <form asp-action="FilterGenreWithYears" method="post">    
+             <h5>Tür ve Yıl Aralığına Göre Sorgulama</h5>
+            <div class="form-group">
+                <label>Tür</label>
+                <input type="text" name="genre" class="form-control" required/>           
+            </div>      
+            <div class="form-group">
+                 <label>Başlangıç Yıl</label>
+                <input type="number" name="firstYear" class="form-control" required/>              
+            </div>      
+            <div class="form-group">
+                <label>Bitiş Yıl</label>
+                <input type="number" name="secondYear" class="form-control" required/>              
+            </div>      
+            <div class="form-group">
+                <input type="submit" value="Filtre" class="btn-primary  " />
+            </div>
+        </form>
+    </div>
+    <div class="col-4">
+        <form asp-action="FilterDirectorWithYears" method="post">    
+             <h5>Yönetmen ve Yıl Aralığına Göre Sorgulama</h5>
+            <div class="form-group">
+                <label>Yönetmen</label>
+                <input type="text" name="director" class="form-control" required/>           
+            </div>      
+            <div class="form-group">
+                 <label>Başlangıç Yıl</label>
+                <input type="number" name="firstYear" class="form-control" required/>              
+            </div>      
+            <div class="form-group">
+                <label>Bitiş Yıl</label>
+                <input type="number" name="secondYear" class="form-control" required/>              
+            </div>      
+            <div class="form-group">
+                <input type="submit" value="Filtre" class="btn-primary  " />
+            </div>
+        </form>
+    </div>
+   
+</div>
+    

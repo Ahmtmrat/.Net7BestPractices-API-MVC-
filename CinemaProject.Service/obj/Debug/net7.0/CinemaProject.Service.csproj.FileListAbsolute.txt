@@ -1,0 +1,17 @@
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\bin\Debug\net7.0\CinemaProject.Service.deps.json
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\bin\Debug\net7.0\CinemaProject.Service.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\bin\Debug\net7.0\CinemaProject.Service.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\bin\Debug\net7.0\CinemaProject.Core.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\bin\Debug\net7.0\CinemaProject.Repository.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\bin\Debug\net7.0\CinemaProject.Repository.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\bin\Debug\net7.0\CinemaProject.Core.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\CinemaProject.Service.csproj.AssemblyReference.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\CinemaProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\CinemaProject.Service.AssemblyInfoInputs.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\CinemaProject.Service.AssemblyInfo.cs
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\CinemaProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\CinemaProject.Service.csproj.CopyComplete
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\CinemaProject.Service.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\refint\CinemaProject.Service.dll
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\CinemaProject.Service.pdb
+C:\Users\yildi\Desktop\Amy\C#\CinemaProject\CinemaProject.Service\obj\Debug\net7.0\ref\CinemaProject.Service.dll
